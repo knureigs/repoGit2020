@@ -1,3 +1,4 @@
+Content for task 1 by dev2.
 Some text content. For initial commit.
 For 2nd commit.
 For 3rd commit. By other author.
