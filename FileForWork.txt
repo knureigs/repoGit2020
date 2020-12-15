@@ -7,3 +7,4 @@ For 5th commit. By other author.
 For 6th commit.
 For 7th commit. With bad description.
 Contetnt for conflict.
+Clear by dev 1.
